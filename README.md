@@ -18,7 +18,6 @@ NOTE: some mapping steps take a substancial amount of time (a few minutes)
 
 ## Results
 The image below shows results from my implementation of the Single Image Haze Removal Using Dark Channel Prior. 
-![](input_img/12.jpg)
 ![](showcase/showcase_1.PNG)  
 
 
