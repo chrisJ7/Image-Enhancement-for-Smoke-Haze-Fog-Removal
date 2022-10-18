@@ -18,12 +18,12 @@ NOTE: some mapping steps take a substancial amount of time (a few minutes)
 
 ## Results
 The image below shows results from my implementation of the Single Image Haze Removal Using Dark Channel Prior.  
-![](showcase/showcase_1.png)  
+![](showcase_1.png)  
 
 
 My developed pipeline:
-![](showcase/showcase_2.png)  
-![](showcase/showcase_3.png) 
+![](showcase_2.png)  
+![](showcase_3.png) 
  
 
 
