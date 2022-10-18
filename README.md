@@ -22,9 +22,5 @@ The image below shows results from my implementation of the Single Image Haze Re
 
 
 My developed pipeline:
-![](showcase_2.png)  
-![](showcase_3.png) 
- 
-
-
-
+![](showcase/showcase_2.PNG)  
+![](showcase/showcase_3.PNG) 
