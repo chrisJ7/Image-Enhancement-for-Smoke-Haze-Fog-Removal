@@ -1,4 +1,4 @@
-# Exposure Fusion
+# Image Enhancement for Smoke, Haze, and Fog Removal
 
 ## Introduction
 <p style="text-align: justify">
